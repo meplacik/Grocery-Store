@@ -1,0 +1,11 @@
+BINARY SEARCH TREE
+- store items ordered by their keys
+- search items (based on rules) by their keys
+- sort data by keys < (left) root > (right)
+- searching takes time proportional to log2n( n# nodes)
+
+HASH TABLE
+- associative arrays, hash maps map
+- store items that can be found by their key
+- search for items by their key
+- goal: the time to search a key/item should be independent of n
